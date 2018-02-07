@@ -1,0 +1,15 @@
+{
+  "name": "navlist",
+  "version": "0.0.0",
+  "description": "导航列表",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "eslint ** && node test"
+  },
+  "author": "wangchenxunum<wangchenxunum@qq.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wangchenxunum/navlist.git"
+  }
+}
