@@ -1,10 +1,10 @@
 {
   "name": "navlist",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "导航列表",
   "main": "./lib/index.js",
   "scripts": {
-    "test": "eslint ** && node test"
+    "test": "eslint lib/** && node test"
   },
   "author": "wangchenxunum<wangchenxunum@qq.com>",
   "license": "MIT",
