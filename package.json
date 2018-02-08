@@ -1,6 +1,6 @@
 {
   "name": "navlist",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "导航列表",
   "main": "./lib/index.js",
   "scripts": {
